@@ -15,17 +15,8 @@
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-php-purple.svg)](https://github.com/Naereen/badges) -->
 #### I am currently just a dicord.js discord bot developer, I mostly use Node.js but i am learning python!
 # Stats
-
-<!-- [![Stargazers over time](https://starchart.cc/aroary/badges.svg)](https://starchart.cc/Naereen/badges) -->
-
-<!-- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=aroary&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-[![aroary's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green)](https://github.com/aroary/github-readme-streak-stats)
-
-[![aroary's github stats](https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green)](https://github.com/aroary/github-readme-stats)
-
+[![aroary's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green)](https://github.com/aroary/github-readme-streak-stats) <br>
+[![aroary's github stats](https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green)](https://github.com/aroary/github-readme-stats) <br>
 [![aroary's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&theme=blue-green)](https://github.com/aroary/github-readme-stats)
-
-<!-- [![Sparkline](https://stars.medv.io/aroary/badges.svg)](https://stars.medv.io/Naereen/badges) -->
-
+# Other
 ![Jokes Card](https://readme-jokes.vercel.app/api)
