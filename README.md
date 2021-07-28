@@ -6,17 +6,17 @@
 [![Generic badge](https://img.shields.io/badge/status-student-white.svg)](https://shields.io/)
 <!-- Languages -->
 <!-- [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
-[![Awesome Badges](https://img.shields.io/badge/language-javascript-yellow.svg)](https://github.com/Naereen/badges)
-[![Awesome Badges](https://img.shields.io/badge/language-python-blue.svg)](https://github.com/Naereen/badges)
-[![Awesome Badges](https://img.shields.io/badge/language-html-red.svg)](https://github.com/Naereen/badges)
-[![Awesome Badges](https://img.shields.io/badge/language-css-cyan.svg)](https://github.com/Naereen/badges)
+![Awesome Badges](https://img.shields.io/badge/language-javascript-yellow.svg)
+![Awesome Badges](https://img.shields.io/badge/language-python-blue.svg)
+![Awesome Badges](https://img.shields.io/badge/language-html-red.svg)
+![Awesome Badges](https://img.shields.io/badge/language-css-cyan.svg)
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-markdown-darkblue.svg)](https://github.com/Naereen/badges) -->
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-sql-pink.svg)](https://github.com/Naereen/badges) -->
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-php-purple.svg)](https://github.com/Naereen/badges) -->
 #### I am currently just a dicord.js discord bot developer, I mostly use Node.js but i am learning python!
 # Stats
-[![aroary's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green)](https://github.com/aroary/github-readme-streak-stats) <br>
-[![aroary's github stats](https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green)](https://github.com/aroary/github-readme-stats) <br>
-[![aroary's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&theme=blue-green)](https://github.com/aroary/github-readme-stats)
+[![aroary's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green)](https://github.com/aroary/aroary) <br>
+[![aroary's github stats](https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green)](https://github.com/aroary/aroary) <br>
+[![aroary's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&theme=blue-green)](https://github.com/aroary/aroary)
 # Other
 ![Jokes Card](https://readme-jokes.vercel.app/api)
