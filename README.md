@@ -14,6 +14,7 @@
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-sql-pink.svg)](https://github.com/Naereen/badges) -->
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-php-purple.svg)](https://github.com/Naereen/badges) -->
 #### I am currently just a dicord.js discord bot developer, I mostly use Node.js but i am learning python!
+* [Website](https://aroary.github.io/home/home.html)
 # Stats
 [![aroary's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green)](https://github.com/aroary/aroary) <br>
 [![aroary's github stats](https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green)](https://github.com/aroary/aroary) <br>
