@@ -3,7 +3,7 @@
 # about
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
 [![Profile views](https://gpvc.arturio.dev/aroary)](https://github.com/aroary)
-[![Generic badge](https://img.shields.io/badge/status-student-white.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/status-student-white.svg)](https://github.com/aroary)
 <!-- Languages -->
 <!-- [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
 ![Awesome Badges](https://img.shields.io/badge/language-javascript-yellow.svg)
