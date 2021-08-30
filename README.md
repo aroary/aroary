@@ -6,10 +6,10 @@
 [![Generic badge](https://img.shields.io/badge/status-student-white.svg)](https://github.com/aroary)
 <!-- Languages -->
 <!-- [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
-![Awesome Badges](https://img.shields.io/badge/language-javascript-yellow.svg)
-![Awesome Badges](https://img.shields.io/badge/language-python-blue.svg)
-![Awesome Badges](https://img.shields.io/badge/language-html-red.svg)
-![Awesome Badges](https://img.shields.io/badge/language-css-cyan.svg)
+![Awesome Badges](https://img.shields.io/badge/language-JavaScript-yellow.svg)
+![Awesome Badges](https://img.shields.io/badge/language-Python-blue.svg)
+![Awesome Badges](https://img.shields.io/badge/language-HTML-red.svg)
+![Awesome Badges](https://img.shields.io/badge/language-CSS-cyan.svg)
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-markdown-darkblue.svg)](https://github.com/Naereen/badges) -->
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-sql-pink.svg)](https://github.com/Naereen/badges) -->
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-php-purple.svg)](https://github.com/Naereen/badges) -->
