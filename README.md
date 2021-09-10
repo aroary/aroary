@@ -11,6 +11,7 @@
 ![Awesome Badges](https://img.shields.io/badge/language-Python-blue.svg)
 ![Awesome Badges](https://img.shields.io/badge/language-HTML-red.svg)
 ![Awesome Badges](https://img.shields.io/badge/language-CSS-cyan.svg) -->
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=1&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=1&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=1&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=1&logo=python&logoColor=white)
