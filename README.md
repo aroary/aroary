@@ -29,3 +29,8 @@
 [![aroary's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&theme=blue-green)](https://github.com/aroary/aroary)
 # Other
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<!---->
+<!-- https://img.shields.io/badge/discord-5865f2?style=1&logo=discord&logoColor=white -->
+<!-- https://starchart.cc/aroary/aroary.svg -->
+<!---->
