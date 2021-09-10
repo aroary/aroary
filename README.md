@@ -15,7 +15,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=1&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=1&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=1&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=1&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=1&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=1&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=1)
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-markdown-darkblue.svg)](https://github.com/Naereen/badges) -->
