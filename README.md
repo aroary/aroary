@@ -25,9 +25,8 @@
 ![Replit](https://img.shields.io/badge/replit-0e1525?style=1&logo=replit&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-203FB6?style=1&logo=firefox&logoColor=red)
 ![Udemy](https://img.shields.io/badge/Udemy-401b9c?style=1&logo=udemy&logoColor=pink)
-<!-- [![Awesome Badges](https://img.shields.io/badge/language-markdown-darkblue.svg)](https://github.com/Naereen/badges) -->
-<!-- [![Awesome Badges](https://img.shields.io/badge/language-sql-pink.svg)](https://github.com/Naereen/badges) -->
-<!-- [![Awesome Badges](https://img.shields.io/badge/language-php-purple.svg)](https://github.com/Naereen/badges) -->
+![Windows](https://img.shields.io/badge/Windows-0067b8?style=1&logo=windows&logoColor=white)
+<!--  -->
 #### I am currently just a discord.js discord bot developer, I mostly use Node.js but i am learning python!
 * [Website](https://aroary.github.io/home/home.html)
 # Stats
