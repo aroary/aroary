@@ -1,5 +1,5 @@
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=aroary/aroary) <br>
-![github](https://camo.githubusercontent.com/70a9fdda3ecdbeda1a5a90bc185b2a301121422bb2280316a7ffb64d2e47b738/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3243324333303f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313831373137)
+![github](https://img.shields.io/badge/aroary-FFFFFF?style=1&logo=github&logoColor=black)
 # about
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=1&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/)
@@ -17,7 +17,14 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=1&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=1&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=1&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=1)
+![NPM](https://img.shields.io/badge/npm-FFFFFF?style=1&logo=npm&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=1&logo=express&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-808080?style=1&logo=socket.io&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848f?style=1&logo=electron&logoColor=black)
+![Discord](https://img.shields.io/badge/Discord-5865f2?style=1&logo=discord&logoColor=white)
+![Replit](https://img.shields.io/badge/replit-0e1525?style=1&logo=replit&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-203FB6?style=1&logo=firefox&logoColor=red)
+![Udemy](https://img.shields.io/badge/Udemy-401b9c?style=1&logo=udemy&logoColor=pink)
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-markdown-darkblue.svg)](https://github.com/Naereen/badges) -->
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-sql-pink.svg)](https://github.com/Naereen/badges) -->
 <!-- [![Awesome Badges](https://img.shields.io/badge/language-php-purple.svg)](https://github.com/Naereen/badges) -->
