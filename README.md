@@ -17,15 +17,15 @@
 ![Stack Overflow](https://img.shields.io/badge/Stack%20overflow-f0f0f0?style=1&logo=stack-overflow)
 ![github](https://img.shields.io/badge/github-FFFFFF?style=1&logo=github&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-413932?style=1&logo=git)
-![NPM](https://img.shields.io/badge/npm-FFFFFF?style=1&logo=npm)
-![PYPI](https://img.shields.io/badge/pypi-ffffff?style=1&logo=pypi)
-![Docker](https://img.shields.io/badge/Docker-fff?style=1&logo=docker)
+<!-- ![NPM](https://img.shields.io/badge/npm-FFFFFF?style=1&logo=npm) -->
+<!-- ![PYPI](https://img.shields.io/badge/pypi-ffffff?style=1&logo=pypi) -->
+<!-- ![Docker](https://img.shields.io/badge/Docker-fff?style=1&logo=docker) -->
 <!--  -->
 ![Discord](https://img.shields.io/badge/Discord-5865f2?style=1&logo=discord&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-fff0f0?style=1&logo=zoom)
-![Hangouts](https://img.shields.io/badge/Hangouts-ffffff?style=1&logo=google-hangouts)
-![Meet](https://img.shields.io/badge/Meet-0F000F?style=1&logo=google-meet)
-![Chat](https://img.shields.io/badge/Chat-fff?style=1&logo=google-chat)
+<!-- ![Hangouts](https://img.shields.io/badge/Hangouts-ffffff?style=1&logo=google-hangouts) -->
+<!-- ![Meet](https://img.shields.io/badge/Meet-0F000F?style=1&logo=google-meet) -->
+<!-- ![Chat](https://img.shields.io/badge/Chat-fff?style=1&logo=google-chat) -->
 <!--  -->
 ![Udemy](https://img.shields.io/badge/Udemy-fff?style=1&logo=udemy)
 ![Replit](https://img.shields.io/badge/replit-0e1525?style=1&logo=replit)
@@ -33,7 +33,7 @@
 <!--  -->
 ![Windows](https://img.shields.io/badge/Windows-0067b8?style=1&logo=windows)
 ![Firefox](https://img.shields.io/badge/Firefox-203FB6?style=1&logo=firefox)
-![Google](https://img.shields.io/badge/Google-fff?style=1&logo=google)
+<!-- ![Google](https://img.shields.io/badge/Google-fff?style=1&logo=google) -->
 <!--  -->
 #### I am currently just a discord.js discord bot developer, I mostly use Node.js but i am learning python!
 * [Website](https://aroary.github.io/home/home.html)
