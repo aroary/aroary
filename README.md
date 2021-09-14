@@ -27,13 +27,15 @@
 <!-- ![Meet](https://img.shields.io/badge/Meet-0F000F?style=1&logo=google-meet) -->
 <!-- ![Chat](https://img.shields.io/badge/Chat-fff?style=1&logo=google-chat) -->
 <!--  -->
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-303030?style=1&logo=visual-studio-code&logoColor=blue)
 ![Udemy](https://img.shields.io/badge/Udemy-fff?style=1&logo=udemy)
 ![Replit](https://img.shields.io/badge/replit-0e1525?style=1&logo=replit)
-![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-303030?style=1&logo=visual-studio-code&logoColor=blue)
+![Codingame](https://img.shields.io/badge/Codingame-131c25?style=1&logo=codingame)
 <!--  -->
 ![Windows](https://img.shields.io/badge/Windows-0067b8?style=1&logo=windows)
 ![Firefox](https://img.shields.io/badge/Firefox-203FB6?style=1&logo=firefox)
 <!-- ![Google](https://img.shields.io/badge/Google-fff?style=1&logo=google) -->
+<!-- ![Assistant](https://img.shields.io/badge/Assistant-fff?style=1&logo=google-assistant) -->
 <!--  -->
 #### I am currently just a discord.js discord bot developer, I mostly use Node.js but i am learning python!
 * [Website](https://aroary.github.io/home/home.html)
