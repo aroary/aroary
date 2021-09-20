@@ -28,8 +28,10 @@
 <!-- ![Chat](https://img.shields.io/badge/Chat-fff?style=1&logo=google-chat) -->
 <!--  -->
 [![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-303030?style=1&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
-[![Udemy](https://img.shields.io/badge/Udemy-fff?style=1&logo=udemy)](https://www.udemy.com/)
 [![Replit](https://img.shields.io/badge/replit-0e1525?style=1&logo=replit)](https://replit.com/@aroary)
+[![Gimp](https://img.shields.io/badge/GIMP-0e2426?style=1&logo=gimp&logoColor=grey)](https://www.gimp.org/)
+<!--  -->
+[![Udemy](https://img.shields.io/badge/Udemy-fff?style=1&logo=udemy)](https://www.udemy.com/)
 [![Codingame](https://img.shields.io/badge/Codingame-131c25?style=1&logo=codingame)](https://www.codingame.com/profile/e331ea266d81381fea8cf6add9f930c88190144)
 <!--  -->
 [![Windows](https://img.shields.io/badge/Windows-0067b8?style=1&logo=windows)](https://www.microsoft.com/en-us/windows/)
