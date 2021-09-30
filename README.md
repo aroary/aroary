@@ -1,7 +1,7 @@
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=aroary/aroary)
 # about
 [![Profile views](https://gpvc.arturio.dev/aroary)](https://github.com/aroary)
-[![Generic badge](https://img.shields.io/badge/school-student-white.svg)](https://github.com/aroary)
+<!-- [![Generic badge](https://img.shields.io/badge/school-student-white.svg)](https://github.com/aroary) -->
 <!--  -->
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=1&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=1&logo=html5&logoColor=white)
@@ -21,21 +21,21 @@
 <!-- ![PYPI](https://img.shields.io/badge/pypi-ffffff?style=1&logo=pypi) -->
 <!-- ![Docker](https://img.shields.io/badge/Docker-fff?style=1&logo=docker) -->
 <!--  -->
-[![Discord](https://img.shields.io/badge/Discord-5865f2?style=1&logo=discord&logoColor=white)](https://discord.com/)
-[![Zoom](https://img.shields.io/badge/Zoom-fff0f0?style=1&logo=zoom)](https://zoom.us/)
+<!-- [![Discord](https://img.shields.io/badge/Discord-5865f2?style=1&logo=discord&logoColor=white)](https://discord.com/) -->
+<!-- [![Zoom](https://img.shields.io/badge/Zoom-fff0f0?style=1&logo=zoom)](https://zoom.us/) -->
 <!-- ![Hangouts](https://img.shields.io/badge/Hangouts-ffffff?style=1&logo=google-hangouts) -->
 <!-- ![Meet](https://img.shields.io/badge/Meet-0F000F?style=1&logo=google-meet) -->
 <!-- ![Chat](https://img.shields.io/badge/Chat-fff?style=1&logo=google-chat) -->
 <!--  -->
-[![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-303030?style=1&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
-[![Replit](https://img.shields.io/badge/replit-0e1525?style=1&logo=replit)](https://replit.com/@aroary)
-[![Gimp](https://img.shields.io/badge/GIMP-0e2426?style=1&logo=gimp&logoColor=grey)](https://www.gimp.org/)
+<!-- [![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-303030?style=1&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/) -->
+<!-- [![Replit](https://img.shields.io/badge/replit-0e1525?style=1&logo=replit)](https://replit.com/@aroary) -->
+<!-- [![Gimp](https://img.shields.io/badge/GIMP-0e2426?style=1&logo=gimp&logoColor=grey)](https://www.gimp.org/) -->
 <!--  -->
-[![Udemy](https://img.shields.io/badge/Udemy-fff?style=1&logo=udemy)](https://www.udemy.com/)
+<!-- [![Udemy](https://img.shields.io/badge/Udemy-fff?style=1&logo=udemy)](https://www.udemy.com/) -->
 [![Codingame](https://img.shields.io/badge/Codingame-131c25?style=1&logo=codingame)](https://www.codingame.com/profile/e331ea266d81381fea8cf6add9f930c88190144)
 <!--  -->
-[![Windows](https://img.shields.io/badge/Windows-0067b8?style=1&logo=windows)](https://www.microsoft.com/en-us/windows/)
-[![Firefox](https://img.shields.io/badge/Firefox-203FB6?style=1&logo=firefox)](https://www.mozilla.org/en-US/firefox/new)
+<!-- [![Windows](https://img.shields.io/badge/Windows-0067b8?style=1&logo=windows)](https://www.microsoft.com/en-us/windows/) -->
+<!-- [![Firefox](https://img.shields.io/badge/Firefox-203FB6?style=1&logo=firefox)](https://www.mozilla.org/en-US/firefox/new) -->
 <!-- ![Google](https://img.shields.io/badge/Google-fff?style=1&logo=google) -->
 <!-- ![Assistant](https://img.shields.io/badge/Assistant-fff?style=1&logo=google-assistant) -->
 <!--  -->
