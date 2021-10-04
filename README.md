@@ -13,6 +13,7 @@
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=1&logo=express&logoColor=black)](https://expressjs.com/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-808080?style=1&logo=socket.io&logoColor=black)](https://socket.io/)
 [![Electron](https://img.shields.io/badge/Electron-47848f?style=1&logo=electron&logoColor=black)](https://www.electronjs.org/)
+![puppeteer](https://img.shields.io/badge/puppeteer-ffffff?style=1&logo=puppeteer)
 <!--  -->
 ![Stack Overflow](https://img.shields.io/badge/Stack%20overflow-f0f0f0?style=1&logo=stack-overflow)
 [![github](https://img.shields.io/badge/github-FFFFFF?style=1&logo=github&logoColor=black)](https://github.com/aroary)
