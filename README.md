@@ -40,7 +40,7 @@
 <!-- ![Google](https://img.shields.io/badge/Google-fff?style=1&logo=google) -->
 <!-- ![Assistant](https://img.shields.io/badge/Assistant-fff?style=1&logo=google-assistant) -->
 <!--  -->
-#### I am currently just a discord.js discord bot developer, I mostly use Node.js but i am learning python!
+#### I am most skilled at Node.js
 * [Website](https://aroary.github.io/home/home.html)
 # Stats
 [![aroary's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green)](https://github.com/aroary/aroary) <br>
