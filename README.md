@@ -3,7 +3,7 @@
 [![Profile views](https://gpvc.arturio.dev/aroary)](https://github.com/aroary)
 <!-- [![Generic badge](https://img.shields.io/badge/school-student-white.svg)](https://github.com/aroary) -->
 <!--  -->
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=1&logo=markdown&logoColor=white)
+<!-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=1&logo=markdown&logoColor=white) -->
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=1&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=1&logo=css3&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-14354C?style=1&logo=python&logoColor=white)](https://www.python.org/)
@@ -33,7 +33,7 @@
 <!-- [![Gimp](https://img.shields.io/badge/GIMP-0e2426?style=1&logo=gimp&logoColor=grey)](https://www.gimp.org/) -->
 <!--  -->
 <!-- [![Udemy](https://img.shields.io/badge/Udemy-fff?style=1&logo=udemy)](https://www.udemy.com/) -->
-[![Codingame](https://img.shields.io/badge/Codingame-131c25?style=1&logo=codingame)](https://www.codingame.com/profile/e331ea266d81381fea8cf6add9f930c88190144)
+<!-- [![Codingame](https://img.shields.io/badge/Codingame-131c25?style=1&logo=codingame)](https://www.codingame.com/profile/e331ea266d81381fea8cf6add9f930c88190144) -->
 <!--  -->
 <!-- [![Windows](https://img.shields.io/badge/Windows-0067b8?style=1&logo=windows)](https://www.microsoft.com/en-us/windows/) -->
 <!-- [![Firefox](https://img.shields.io/badge/Firefox-203FB6?style=1&logo=firefox)](https://www.mozilla.org/en-US/firefox/new) -->
