@@ -49,6 +49,8 @@
 # Other
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<!-- https://github-readme-stats.vercel.app/api/pin/?username=aroary&repo=aroary&theme=dark -->
+
 <!---->
 <!-- [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
 <!-- [![Logo badge](https://img.shields.io/badge/<NAME>-<COLOR>?style=1&logo=<LOGO>&logoColor=<?COLOR>) -->
