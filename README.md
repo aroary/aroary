@@ -1,4 +1,3 @@
-![GitHub Contributors Image](https://contrib.rocks/image?repo=aroary/aroary)
 # about
 [![Profile views](https://gpvc.arturio.dev/aroary)](https://github.com/aroary)
 <!-- [![Generic badge](https://img.shields.io/badge/school-student-white.svg)](https://github.com/aroary) -->
