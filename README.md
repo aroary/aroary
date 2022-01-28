@@ -43,12 +43,15 @@
 #### I am most skilled at Node.js
 * [Website](https://aroary.github.io/home/home.html)
 # Stats
-[![aroary's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green)](https://github.com/aroary/aroary) <br>
-[![aroary's github stats](https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green)](https://github.com/aroary/aroary) <br>
-[![aroary's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&theme=blue-green)](https://github.com/aroary/aroary)
+<p align="center">
+	<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green">
+	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&layout=compact&theme=blue-green">
+<!-- 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&theme=blue-green"> -->
+</p>
+
 # Other
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 
 <!---->
 <!-- [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
