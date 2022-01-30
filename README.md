@@ -44,10 +44,10 @@
 * [Website](https://aroary.github.io/home/home.html)
 # Stats
 <p align="center">
-	<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green">
-	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&layout=compact&theme=blue-green">
-<!-- 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&theme=blue-green"> -->
+	<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green">
+	<img width="80%" src="https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green">
+	<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&layout=compact&theme=blue-green">
+<!-- 	<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&theme=blue-green"> -->
 </p>
 
 # Other
