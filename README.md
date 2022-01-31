@@ -1,23 +1,46 @@
 # about
 [![Profile views](https://gpvc.arturio.dev/aroary)](https://github.com/aroary)
+#### **Languages include:** [Node.js](https://nodejs.org), JavaScript, [Python](https://python.org), [C++](https://cplusplus.com/), HTML, CSS
+#### **Packages include:** [Expressjs](https://expressjs.com/), [socket.io](https://socket.io/), [Electron](https://electronjs.org), [win32](https://docs.microsoft.com/en-us/windows/win32/), [discord.js](https://discord.js.org/)
+#### **Tools include:** [GitHub](https://github.com/), [git](https://git-scm.com/), [Visual Studio Code](https://code.visualstudio.com/), [Visual Studio](https://visualstudio.microsoft.com/), [MSBuild](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2022)
+> Website: [https://aroary.github.io/](https://aroary.github.io/)
+# Stats
+<p align="center">
+	<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green">
+	<img width="80%" src="https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green">
+	<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&layout=compact&theme=blue-green">
+<!-- 	<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&theme=blue-green"> -->
+</p>
+
+# Other
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<!---->
+<!-- [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
+<!-- [![Logo badge](https://img.shields.io/badge/<NAME>-<COLOR>?style=1&logo=<LOGO>&logoColor=<?COLOR>) -->
+<!-- https://starchart.cc/aroary/aroary.svg -->
+<!-- https://github-readme-stats.vercel.app/api/pin/?username=aroary&repo=aroary&theme=dark -->
+<!---->
+
+
 <!-- [![Generic badge](https://img.shields.io/badge/school-student-white.svg)](https://github.com/aroary) -->
 <!--  -->
 <!-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=1&logo=markdown&logoColor=white) -->
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=1&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=1&logo=css3&logoColor=white)
-[![Python](https://img.shields.io/badge/Python-14354C?style=1&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=1&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![cpp](https://img.shields.io/badge/C++-blue?style=1&logo=c%2B%2B)](https://www.cplusplus.com/)
+<!-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=1&logo=html5&logoColor=white) -->
+<!-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=1&logo=css3&logoColor=white) -->
+<!-- [![Python](https://img.shields.io/badge/Python-14354C?style=1&logo=python&logoColor=white)](https://www.python.org/) -->
+<!-- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=1&logo=javascript&logoColor=black)](https://www.javascript.com/) -->
+<!-- [![cpp](https://img.shields.io/badge/C++-blue?style=1&logo=c%2B%2B)](https://www.cplusplus.com/) -->
 <!--  -->
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=1&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=1&logo=express&logoColor=black)](https://expressjs.com/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-808080?style=1&logo=socket.io&logoColor=black)](https://socket.io/)
-[![Electron](https://img.shields.io/badge/Electron-47848f?style=1&logo=electron&logoColor=black)](https://www.electronjs.org/)
-![puppeteer](https://img.shields.io/badge/puppeteer-ffffff?style=1&logo=puppeteer)
+<!-- [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=1&logo=node.js&logoColor=white)](https://nodejs.org/en/) -->
+<!-- [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=1&logo=express&logoColor=black)](https://expressjs.com/) -->
+<!-- [![Socket.io](https://img.shields.io/badge/Socket.io-808080?style=1&logo=socket.io&logoColor=black)](https://socket.io/) -->
+<!-- [![Electron](https://img.shields.io/badge/Electron-47848f?style=1&logo=electron&logoColor=black)](https://www.electronjs.org/) -->
+<!-- ![puppeteer](https://img.shields.io/badge/puppeteer-ffffff?style=1&logo=puppeteer) -->
 <!--  -->
-![Stack Overflow](https://img.shields.io/badge/Stack%20overflow-f0f0f0?style=1&logo=stack-overflow)
-[![github](https://img.shields.io/badge/github-FFFFFF?style=1&logo=github&logoColor=black)](https://github.com/aroary)
-![Git](https://img.shields.io/badge/Git-413932?style=1&logo=git)
+<!-- ![Stack Overflow](https://img.shields.io/badge/Stack%20overflow-f0f0f0?style=1&logo=stack-overflow) -->
+<!-- [![github](https://img.shields.io/badge/github-FFFFFF?style=1&logo=github&logoColor=black)](https://github.com/aroary) -->
+<!-- ![Git](https://img.shields.io/badge/Git-413932?style=1&logo=git) -->
 <!-- ![NPM](https://img.shields.io/badge/npm-FFFFFF?style=1&logo=npm) -->
 <!-- ![PYPI](https://img.shields.io/badge/pypi-ffffff?style=1&logo=pypi) -->
 <!-- ![Docker](https://img.shields.io/badge/Docker-fff?style=1&logo=docker) -->
@@ -40,22 +63,3 @@
 <!-- ![Google](https://img.shields.io/badge/Google-fff?style=1&logo=google) -->
 <!-- ![Assistant](https://img.shields.io/badge/Assistant-fff?style=1&logo=google-assistant) -->
 <!--  -->
-#### I am most skilled at Node.js
-* [Website](https://aroary.github.io/home/home.html)
-# Stats
-<p align="center">
-	<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green">
-	<img width="80%" src="https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green">
-	<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&layout=compact&theme=blue-green">
-<!-- 	<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&theme=blue-green"> -->
-</p>
-
-# Other
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<!---->
-<!-- [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
-<!-- [![Logo badge](https://img.shields.io/badge/<NAME>-<COLOR>?style=1&logo=<LOGO>&logoColor=<?COLOR>) -->
-<!-- https://starchart.cc/aroary/aroary.svg -->
-<!-- https://github-readme-stats.vercel.app/api/pin/?username=aroary&repo=aroary&theme=dark -->
-<!---->
