@@ -6,9 +6,9 @@
 > Website: [https://aroary.github.io/](https://aroary.github.io/)
 # Stats
 <p align="center">
-	<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green">
-	<img width="80%" src="https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green">
-	<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&layout=compact&theme=blue-green">
+	<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=aroary&theme=blue-green&count_private=true">
+	<img width="80%" src="https://github-readme-stats.vercel.app/api?username=aroary&theme=blue-green&show_icons=true&count_private=true">
+	<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&layout=compact&theme=blue-green&langs_count=10">
 <!-- 	<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&theme=blue-green"> -->
 </p>
 
