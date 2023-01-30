@@ -32,6 +32,3 @@
 	<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&layout=compact&theme=blue-green&langs_count=10">
 <!-- 	<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroary&theme=blue-green"> -->
 </p>
-
-# Other
-![Jokes Card](https://readme-jokes.vercel.app/api)
