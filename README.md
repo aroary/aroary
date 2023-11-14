@@ -10,6 +10,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=1&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=1&logo=css3&logoColor=white)
 [![TypeScript](https://img.shields.io/badge/TypeScript-white?style=1&logo=typescript)](https://www.typescriptlang.org/)
+[![SQL](https://img.shields.io/badge/SQL-orange?style=1&logo=nosql)](https://www.microsoft.com/sql-server)
 #### **Packages include:**
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=1&logo=express&logoColor=black)](http://expressjs.com/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-808080?style=1&logo=socket.io&logoColor=black)](https://socket.io/)
