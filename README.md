@@ -1,6 +1,5 @@
 # about
 #### Website: [https://aroary.github.io/](https://aroary.github.io/) <!-- https://aroary.com -->
-[![Profile views](https://gpvc.arturio.dev/aroary)](https://github.com/aroary)
 #### **Languages include:**
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=1&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-14354C?style=1&logo=python&logoColor=white)](https://www.python.org/)
